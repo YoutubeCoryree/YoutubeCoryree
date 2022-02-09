@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @YoutubeCoryree
+- 👀 I’m interested in: robox exploits
+- 🌱 I’m currently learning: LUA
+- 💞️ I’m looking to collaborate on: nothing.
+- 📫 How to reach me: your not reaching me you noob
