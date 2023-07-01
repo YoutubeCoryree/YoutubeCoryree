@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YoutubeCoryree
-- 👀 I’m interested in: robox exploits
-- 🌱 I’m currently learning: LUA
+- 👀 I’m interested in: malware
+- 🌱 I’m currently learning: LUA, vb.net, and python
 - 💞️ I’m looking to collaborate on: nothing.
-- 📫 How to reach me: your not reaching me you noob
+- 📫 How to reach me: coryo3000+msg@gmail.cm
